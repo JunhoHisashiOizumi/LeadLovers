@@ -9,7 +9,7 @@ PHP: Versão 7 ou acima | oizumi-junho/lead-lovers-php: Qualquer versão
 ```
 
     "require": {
-        "oizumi-junho/lead-lovers-php": "*.*.*",
+        "oizumi-junho/lead-lovers-php": "dev-master",
         "php": ">=7.0"
     }
 
