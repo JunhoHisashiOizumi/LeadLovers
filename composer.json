@@ -1,0 +1,23 @@
+{
+    "name": "oizumi-junho/lead-lovers-php",
+    "description": "Criado para facilitar a integração com o LeadLovers",
+    "type": "library",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [{
+        "name": "Oizumi Junho",
+        "email": "oizumijunho@gmail.com",
+        "role": "Developer"
+    }],
+    "autoload": {
+        "psr-4": {
+            "OizumiJunho\\LeadLovers\\": "src/LeadLovers"
+        },
+        "files": [
+            "src/LeadLovers/Config.php"
+        ]
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
